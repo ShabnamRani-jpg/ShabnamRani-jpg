@@ -719,20 +719,60 @@ _Jul 2015 – May 2019_
 <!-- GitHub Stats -->
 <div align="center">
 
-## 📈 **GITHUB ACTIVITY & CONTRIBUTIONS**
+## 📈 **GITHUB PORTFOLIO & CONTRIBUTIONS**
 
 <table align="center">
 <tr>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shabnamrani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=50C878&text_color=FFFFFF" width="450"/>
+<td align="center" width="50%">
+
+### 📊 **Development Metrics**
+
+<table>
+<tr><td>📁</td><td><b>Public Repositories</b></td><td><img src="https://img.shields.io/badge/7+-4A90E2?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>🔨</td><td><b>Active Projects</b></td><td><img src="https://img.shields.io/badge/Insurance_Analytics-50C878?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>💻</td><td><b>Primary Languages</b></td><td><img src="https://img.shields.io/badge/SQL_•_Python_•_JS-FF6B6B?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>📊</td><td><b>Specialization</b></td><td><img src="https://img.shields.io/badge/Business_Analytics-FFD700?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>🎯</td><td><b>Focus Areas</b></td><td><img src="https://img.shields.io/badge/Power_BI_•_ETL_•_RPA-9B59B6?style=for-the-badge&labelColor=0D1117"/></td></tr>
+</table>
+
 </td>
-<td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shabnamrani&theme=tokyonight&hide_border=true&background=0D1117&stroke=4A90E2&ring=50C878&fire=FF6B6B&currStreakLabel=50C878" width="450"/>
+<td align="center" width="50%">
+
+### 🚀 **Portfolio Highlights**
+
+<table>
+<tr><td>🏥</td><td><b>Insurance Domain</b></td><td><img src="https://img.shields.io/badge/Expert-success?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>📊</td><td><b>Data Analysis</b></td><td><img src="https://img.shields.io/badge/Advanced-blue?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>🔄</td><td><b>ETL Pipelines</b></td><td><img src="https://img.shields.io/badge/Production_Ready-orange?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>📈</td><td><b>Visualization</b></td><td><img src="https://img.shields.io/badge/Power_BI_Expert-yellow?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>🤖</td><td><b>Automation</b></td><td><img src="https://img.shields.io/badge/RPA_Framework-purple?style=for-the-badge&labelColor=0D1117"/></td></tr>
+</table>
+
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shabnamrani&custom_title=Contribution%20Activity&bg_color=0D1117&color=4A90E2&line=50C878&point=FF6B6B&area=true&hide_border=true&theme=react" width="95%" />
+<br/>
+
+💡 **Building GitHub presence through quality projects in Insurance Analytics, Business Intelligence & Process Automation**
+
+<!-- 
+📝 Note: Contribution graphs will display once GitHub activity increases.
+To enable stats widgets later, uncomment the section below:
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=50C878&text_color=FFFFFF&include_all_commits=true&count_private=true" width="450"/>
+</td>
+<td align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=4A90E2&ring=50C878&fire=FF6B6B&currStreakLabel=50C878" width="450"/>
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=Contribution%20Activity&bg_color=0D1117&color=4A90E2&line=50C878&point=FF6B6B&area=true&hide_border=true&theme=react" width="95%" />
+-->
 
 </div>
 
